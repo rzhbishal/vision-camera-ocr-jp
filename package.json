@@ -1,5 +1,5 @@
 {
-  "name": "vision-camera-ocr-jp",
+  "name": "vision-camera-ocr",
   "version": "1.0.0",
   "description": "VisionCamera Frame Processor Plugin to provide OCR support",
   "main": "lib/commonjs/index",
@@ -37,10 +37,16 @@
     "android"
   ],
   "repository": "https://github.com/rzhbishal/vision-camera-ocr-jp",
+  "author": "Bishal Khadka <bishalk2056@gmail.com> (https://github.com/ghbishal)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rzhbishal/vision-camera-ocr-jp/issues"
+  },
+  "homepage": "https://github.com/rzhbishal/vision-camera-ocr-jp#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
+
   "devDependencies": {
     "@react-native-community/eslint-config": "^3.0.0",
     "@release-it/conventional-changelog": "^2.0.0",
